@@ -20,10 +20,10 @@
     </style>
   </head>
 <body>
-$ 1.50
-  % Version 1.50
+$ 1.60
+  % Version 1.60
   _ 15-03-2020
-$ 1.50
+$ 1.60
 * ability to delete messages (Select any message - open options and click delete for everyone)
 * Improved Privacy Settings
 * Show Blue ticks after reply! (mark message as read, only when you reply!)
@@ -32,10 +32,10 @@ $ 1.50
 * Added New Fonts
 * Added option to Hide Conversation Names
 * Now you can send message to unsaved Number
-* Added Bacup and Restore (AG Settings-Backup and Restore)
+* Added Bacup and Restore (KB Settings-Backup and Restore)
 * Fixed The date and day not showing Next to new Statuses (Statuses Screen)
 * Increase the number of members of the broadcasts to 1024
-* Added New Icons(AG Settings-Colors and Icon-Icon)
+* Added New Icons(KB Settings-Colors and Icon-Icon)
 * Fixed	Schedule message
 * fixed @mention Icon on Main Screen to easily Know where you are tagged
 * Improved split videos option 
