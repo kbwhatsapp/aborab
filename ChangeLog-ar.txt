@@ -1,5 +1,5 @@
-{"version_code":452651,"content":"
-<p>تحديث 8.16 (Update)</p>
+{"version_code":452649,"content":"
+<p>تحديث 8.15 (Update)</p>
 
 
 <li> تحديث الى اصدار 2.20.11 من نسخة المتجر</li>
